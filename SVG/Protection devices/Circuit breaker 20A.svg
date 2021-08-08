@@ -8,7 +8,7 @@
    class="st6"
    version="1.1"
    id="svg117"
-   sodipodi:docname="Circuit breaker .svg"
+   sodipodi:docname="Circuit breaker 20A.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -115,9 +115,9 @@
    id="rect96" />
 				<text
    x="0"
-   y="27.370001"
+   y="27.37"
    class="st3"
-   id="text98" />			</g>
+   id="text98">20A</text>			</g>
 			<g
    id="5"
    transform="translate(5.29356,-7.10543E-015)">
